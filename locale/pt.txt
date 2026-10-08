@@ -1,0 +1,47 @@
+#: locale=pt
+
+## Tour
+
+### Description
+
+### Title
+tour.name = Casa das Magueiras 1
+
+## Skin
+
+### Tooltip
+IconButton_138AC8EB_1C81_A718_41B9_C0E861AF42F4.toolTip = Fullscreen
+IconButton_138AC8EB_1C81_A718_41B9_C0E861AF42F4_mobile.toolTip = Fullscreen
+
+## Media
+
+### Title
+panorama_16345740_1DA6_D9BC_41A7_295C176051ED.label = Atendimento
+panorama_17070313_1DA6_B9DC_41B1_1469289F4C55.label = Balcão de Atendimento
+panorama_173A4ED8_1DA6_484C_41AF_530D8D957698.label = Entrada da Loja
+panorama_173A6966_1DA6_4844_419E_294D30970C00.label = Ferragens
+
+## E-Learning
+
+### Score Name
+score1.label = Score 1
+
+### Question Screen
+quizQuestion_0C8CA08A_1DD9_D8CC_4170_9240092C8858.ok = OK
+
+### Report Screen
+quizScore_0C92808B_1DD9_D8CC_41B4_C75CFB3DF7AC.completion = Completed
+quizScore_0C92808B_1DD9_D8CC_41B4_C75CFB3DF7AC.downloadCSV = Download .csv
+quizScore_0C92808B_1DD9_D8CC_41B4_C75CFB3DF7AC.elapsedTime = Time
+quizScore_0C92808B_1DD9_D8CC_41B4_C75CFB3DF7AC.items = Items Found
+quizScore_0C92808B_1DD9_D8CC_41B4_C75CFB3DF7AC.questions = Questions
+quizScore_0C92808B_1DD9_D8CC_41B4_C75CFB3DF7AC.questionsCorrect = Correct
+quizScore_0C92808B_1DD9_D8CC_41B4_C75CFB3DF7AC.questionsIncorrect = Incorrect
+quizScore_0C92808B_1DD9_D8CC_41B4_C75CFB3DF7AC.repeat = Repeat
+quizScore_0C92808B_1DD9_D8CC_41B4_C75CFB3DF7AC.submitToLMS = Submit
+quizScore_0C92808B_1DD9_D8CC_41B4_C75CFB3DF7AC.title = - SCORE -
+
+### Timeout Screen
+quizTimeout_0C8CA08A_1DD9_D8CC_41B9_55EE5E0D779C.repeat = Repeat
+quizTimeout_0C8CA08A_1DD9_D8CC_41B9_55EE5E0D779C.score = View Score
+quizTimeout_0C8CA08A_1DD9_D8CC_41B9_55EE5E0D779C.title = - TIMEOUT -
